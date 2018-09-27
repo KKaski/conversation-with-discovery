@@ -1,0 +1,9 @@
+node_modules					usr/src/conversationwithdiscovery
+package.json					usr/src/conversationwithdiscovery
+package-lock.json				usr/src/conversationwithdiscovery
+run-debug                       usr/src/conversationwithdiscovery
+run-dev                         usr/src/conversationwithdiscovery
+server							usr/src/conversationwithdiscovery
+public							usr/src/conversationwithdiscovery
+terraform/scripts/install.sh	usr/src/conversationwithdiscovery
+terraform/scripts/start.sh		usr/src/conversationwithdiscovery
